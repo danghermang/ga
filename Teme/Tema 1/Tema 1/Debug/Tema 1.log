@@ -1,0 +1,12 @@
+﻿  Source.cpp
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(128): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(199): warning C4101: 'length': unreferenced local variable
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(501): warning C4101: 'bit_pos': unreferenced local variable
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(501): warning C4101: 'length': unreferenced local variable
+e:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 1\tema 1\source.cpp(504): warning C4101: 'increase_found': unreferenced local variable
+  Tema 1.vcxproj -> E:\Facultate\an 2 sem 1\Algoritmi genetici\Teme\Tema 1\Debug\Tema 1.exe
+  Tema 1.vcxproj -> E:\Facultate\an 2 sem 1\Algoritmi genetici\Teme\Tema 1\Debug\Tema 1.pdb (Full PDB)

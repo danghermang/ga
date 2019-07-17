@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\facultate\an 2 sem 1\algoritmi genetici\teme\tsp heuristic\tsp heuristic\source.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\facultate\an 2 sem 1\algoritmi genetici\teme\tsp heuristic\tsp heuristic\source.cpp(18): warning C4101: 'k': unreferenced local variable
+  TSP Heuristic.vcxproj -> D:\Facultate\an 2 sem 1\Algoritmi genetici\Teme\TSP Heuristic\Debug\TSP Heuristic.exe
+  TSP Heuristic.vcxproj -> D:\Facultate\an 2 sem 1\Algoritmi genetici\Teme\TSP Heuristic\Debug\TSP Heuristic.pdb (Full PDB)

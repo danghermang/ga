@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>d:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 2\tema 2\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>255</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '520064' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>select</FUNCTION>
+    <DECORATED>?select@@YAPAHV?$vector@V?$bitset@$0CA@@std@@V?$allocator@V?$bitset@$0CA@@std@@@2@@std@@HHMM@Z</DECORATED>
+    <FUNCLINE>255</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 2\tema 2\</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>336</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Function uses '200124' bytes of stack:  exceeds /analyze:stacksize '16384'.  Consider moving some data to heap.</DESCRIPTION>
+    <FUNCTION>genetic_testing</FUNCTION>
+    <DECORATED>?genetic_testing@@YAXXZ</DECORATED>
+    <FUNCLINE>336</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

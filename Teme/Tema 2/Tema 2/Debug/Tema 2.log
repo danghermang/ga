@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 2\tema 2\source.cpp(339): warning C4101: 'fitness': unreferenced local variable
+d:\facultate\an 2 sem 1\algoritmi genetici\teme\tema 2\tema 2\source.cpp(283): warning C4172: returning address of local variable or temporary: selected
+  Tema 2.vcxproj -> D:\Facultate\an 2 sem 1\Algoritmi genetici\Teme\Tema 2\Debug\Tema 2.exe
+  Tema 2.vcxproj -> D:\Facultate\an 2 sem 1\Algoritmi genetici\Teme\Tema 2\Debug\Tema 2.pdb (Full PDB)
